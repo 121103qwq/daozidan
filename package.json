@@ -1,0 +1,10 @@
+{
+  "name": "daozidan",
+  "private": true,
+  "version": "0.1.0",
+  "packageManager": "pnpm@10",
+  "scripts": {
+    "dev": "echo setup pending",
+    "test": "echo tests pending"
+  }
+}
